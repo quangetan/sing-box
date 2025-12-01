@@ -1,7 +1,7 @@
 Sing-Box-Plus 一键管理脚本（18 节点：直连 9 + WARP 9）
 开箱即用 18 个节点（直连 9 + WARP 9），含端口一键切换、BBR 加速、分享链接导出等。
 
-wget -O sing-box-plus.sh https://github.com/quangetan/sing-box/raw/refs/heads/main/README.md  && chmod +x sing-box-plus.sh && bash sing-box-plus.sh
+wget -O sing-box-plus.sh https://github.com/quangetan/sing-box/raw/refs/heads/main/sing-box-plus.sh  && chmod +x sing-box-plus.sh && bash sing-box-plus.sh
 
 
 ✅ 已适配 sing-box v1.12.x
@@ -34,10 +34,10 @@ WARP 出站更利于流媒体解锁与回程质量。
 已在Vultr 上测试通过。
 
 📥 一键安装 / 更新脚本
-wget -O sing-box-plus.sh https://github.com/quangetan/sing-box/raw/refs/heads/main/README.md  && chmod +x sing-box-plus.sh && bash sing-box-plus.sh
+wget -O sing-box-plus.sh https://github.com/quangetan/sing-box/raw/refs/heads/main/sing-box-plus.sh  && chmod +x sing-box-plus.sh && bash sing-box-plus.sh
 或者
 
-curl -fsSL -o sing-box-plus.sh https://github.com/quangetan/sing-box/raw/refs/heads/main/README.md  && chmod +x sing-box-plus.sh && bash sing-box-plus.sh
+curl -fsSL -o https://github.com/quangetan/sing-box/raw/refs/heads/main/sing-box-plus.sh  && chmod +x sing-box-plus.sh && bash sing-box-plus.sh
 安装完成后，输入 bash sing-box-plus.sh 可进入管理页面。
 
 🧭 功能菜单
